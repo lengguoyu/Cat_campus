@@ -1,9 +1,18 @@
 <RCC>
     <qresource prefix="/">
         <file>images/bedroom.jpg</file>
+<<<<<<< HEAD
         <file>images/canteen.jpg</file>
         <file>images/classroom.jpg</file>
         <file>images/free_time.jpg</file>
+=======
+        <file>images/bedroom_night.jpg</file>
+        <file>images/campus.jpg</file>
+        <file>images/canteen.jpg</file>
+        <file>images/classroom.jpg</file>
+        <file>images/free_time.jpg</file>
+        <file>images/guandongzhu.jpg</file>
+>>>>>>> 0d38c3f4cbd64d8d99e73da83a3369d255c33053
         <file>images/lamb_noodles.jpg</file>
         <file>images/library.jpg</file>
         <file>images/living_room.jpg</file>
@@ -14,7 +23,11 @@
         <file>images/shaomai.jpg</file>
         <file>images/stir_fry.jpg</file>
         <file>images/sunset.jpg</file>
+<<<<<<< HEAD
         <file>images/bedroom_night.jpg</file>
         <file>images/campus.jpg</file>
+=======
+        <file>images/tiebodoufu.jpg</file>
+>>>>>>> 0d38c3f4cbd64d8d99e73da83a3369d255c33053
     </qresource>
 </RCC>
