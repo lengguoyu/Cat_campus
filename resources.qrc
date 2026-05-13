@@ -1,7 +1,6 @@
 <RCC>
     <qresource prefix="/">
         <file>images/bedroom.jpg</file>
-        <file>images/campus.jpg</file>
         <file>images/canteen.jpg</file>
         <file>images/classroom.jpg</file>
         <file>images/free_time.jpg</file>
@@ -16,5 +15,6 @@
         <file>images/stir_fry.jpg</file>
         <file>images/sunset.jpg</file>
         <file>images/bedroom_night.jpg</file>
+        <file>images/campus.jpg</file>
     </qresource>
 </RCC>
